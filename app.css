@@ -1,0 +1,81 @@
+body{
+  
+  background-color: rgb(0, 0, 0);
+}
+footer{
+  background-color: rgb(99, 99, 99);
+  min-height: 100px;
+}
+
+footer p{
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+.iconos i{    /*#iconos i?*/
+  font-size: 26px;
+  padding: 0 10px;
+  color: rgb(0, 0, 0);
+}
+h6{
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+div{
+  box-shadow: 0 5px 10px #b7fdff;
+  border-radius: 5px;
+  color: white;
+  box-shadow: 0 2px 20px wheat;
+}
+h1{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  
+}
+a{
+  text-align: center;
+  box-shadow: 0 30px 80px rgb(251, 220, 163);
+
+}
+
+h2{
+  margin: 2rem;
+  font-size: 1rem;
+  font-family: sans-serif;
+  text-align: center;
+  box-shadow: 0 5px 10px #00ffea;
+}
+h3{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  box-shadow: 0 5px 10px #ffffff;
+
+}
+legend{
+  text-align: center;
+  box-shadow: 0 5px 10px #ffffff;
+
+}
+div{
+  text-align: center;
+}
+h4{
+  color: rgb(255, 255, 255);
+}
+img{
+
+  border-radius: 50px;   /* borde redondeado 10px*/  
+
+}
+.fixed{
+  padding: 1rem;
+  color: black;
+}
+.fixed{
+  position: fixed;
+  top: 85%;
+
+}
+.fixed{
+  background-color: #a8d5e2;
+}
